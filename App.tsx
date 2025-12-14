@@ -6,7 +6,6 @@ import {
   MapPin, 
   CheckCircle2, 
   GraduationCap,
-  ChevronRight,
   Instagram,
   ExternalLink,
   MessageCircle
